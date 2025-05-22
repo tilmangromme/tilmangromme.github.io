@@ -3,7 +3,7 @@ title: Introductory Post
 author: tilmangromme
 date: 2025-05-19 13:11:00 +0800
 categories: [Blogging, Software Development]
-tags: [testing]
+tags: [Software, SWE]
 render_with_liquid: false
 ---
 
