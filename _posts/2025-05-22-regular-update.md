@@ -1,7 +1,7 @@
 ---
 title: Regular Update
 author: tilmangromme
-date: 2025-05-19 13:11:00 +0800
+date: 2025-05-22 13:11:00 +0800
 categories: [Blogging, Software Development, Machine Leaerning]
 tags: [Software, ML, SWE]
 render_with_liquid: false
